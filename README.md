@@ -3,6 +3,7 @@
 # Concepte principale: Virtualizare, Polimorfism, Mostenire in diamant.
 
 Proiectul 2 consta in alegerea a minim 5 clase care sa exemplifice o aplicatie.
+
 Pentru fiecare clase trebuie sa se respecte conceptul de incapsulare a datelor.
 
 Cerinte proiect:
