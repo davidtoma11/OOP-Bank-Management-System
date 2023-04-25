@@ -8,6 +8,7 @@ Pentru fiecare clase trebuie sa se respecte conceptul de incapsulare a datelor.
 Cerinte proiect:
 
 - Fiecare clasa sa contina :
+
 - - Constructorul fara parametri
 - - Constructorul cu toti parametri
 - Copy Constructorul
