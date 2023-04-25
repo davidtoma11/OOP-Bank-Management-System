@@ -1,6 +1,6 @@
 # Proiect OOP - Bank Management System
 
-# Concepte principale: Virtualizare, Polimorfism, “Death diamond”.
+# Concepte principale: Virtualizare, Polimorfism, Mostenirea diamant.
 
 Proiectul 2 consta in alegerea a minim 5 clase care sa exemplifice o aplicatie.
 
