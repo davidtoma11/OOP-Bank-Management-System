@@ -1,13 +1,17 @@
 # Proiect OOP - Bank Management System
 
 # Concepte principale: Virtualizare, Polimorfism, Mostenire in diamant.
-Proiectul consta in alegerea a minim 5 clase
+
+Proiectul 2 consta in alegerea a minim 5 clase care sa exemplifice o aplicatie.
+Pentru fiecare clase trebuie sa se respecte conceptul de incapsulare a datelor.
+
+Cerinte proiect:
 Fiecare clasa sa contina :
-➢ Constructorul fara parametri
-➢ Constructorul cu toti parametri
-➢ Copy Constructorul
-➢ Operator egal
-➢ Destructor
+- Constructorul fara parametri
+- Constructorul cu toti parametri
+- Copy Constructorul
+- Operator egal
+- Destructor
 ➢ Operator de citire 
 ➢ Operator de afisare
 - Sa se exemplifice conceptul de virtualizare
