@@ -6,9 +6,10 @@ Proiectul 2 consta in alegerea a minim 5 clase care sa exemplifice o aplicatie.
 Pentru fiecare clase trebuie sa se respecte conceptul de incapsulare a datelor.
 
 Cerinte proiect:
-Fiecare clasa sa contina :
-- Constructorul fara parametri
-- Constructorul cu toti parametri
+
+- Fiecare clasa sa contina :
+- - Constructorul fara parametri
+- - Constructorul cu toti parametri
 - Copy Constructorul
 - Operator egal
 - Destructor
