@@ -1,5 +1,6 @@
 # Proiect OOP - Bank Management System
-# Concepte principale: Virtualizare. Polimorfism. Mostenire in diamant.
+
+# Concepte principale: Virtualizare, Polimorfism, Mostenire in diamant.
 Proiectul consta in alegerea a minim 5 clase
 Fiecare clasa sa contina :
 ➢ Constructorul fara parametri
